@@ -5,3 +5,6 @@ This project features a parametric 3D version of the Gentoo logo, used in accord
 
 
 The .step file appears to be broken. Please let me know if you can find out why.
+
+
+Designed using FreeCAD 0.21.2, Libs: 0.21.2R33771 (Git)
